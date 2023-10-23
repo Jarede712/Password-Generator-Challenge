@@ -6,9 +6,6 @@
 
 A simple password generator made from HTML, CSS, and JavaScript. It allows you to set simple parameters and will generate a random passoword for you based on the parameters you chose.
 
-## Screenshots
-
-![Password Generator Screenshot](screenshot.jpg)
 
 ## Usage
 
