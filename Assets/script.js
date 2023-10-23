@@ -9,7 +9,7 @@ function writePassword() {
 }
 
 function generatePassword() {
-    var length = prompt ("Enter the lenght of the password (between 8 and 128 characters):");
+    var length = prompt ("Enter the length of the password (between 8 and 128 characters):");
     if (length < 8) {
         alert("Please enter a number greater than 7.")
     } else if (length > 128) {
