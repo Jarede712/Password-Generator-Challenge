@@ -8,7 +8,7 @@ A simple password generator made from HTML, CSS, and JavaScript. It allows you t
 
 ## Screenshots
 
-![Password Generator Screenshot 1] (./Assets/PasswordGenerator.png)
+![Password Generator Screenshot 1] (Assets/Images/Password Generator Screenshot.jpg)
 
 ## Usage
 
