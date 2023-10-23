@@ -1,7 +1,5 @@
-// Assignment Code
 var generateBtn = document.querySelector("#generate");
 
-// Write password to the #password input
 function writePassword() {
   var password = generatePassword();
   var passwordText = document.querySelector("#password");
@@ -10,7 +8,6 @@ function writePassword() {
 
 }
 
-// Generate a random password based on user input
 function generatePassword() {
   var length = prompt("Enter the length of the password (between 8 and 128 characters):");
   if (length < 8 || length > 128 || isNaN(length)) {
@@ -48,5 +45,4 @@ function generatePassword() {
   return password;
 }
 
-// Add event listener to generate button
 generateBtn.addEventListener("click", writePassword);
